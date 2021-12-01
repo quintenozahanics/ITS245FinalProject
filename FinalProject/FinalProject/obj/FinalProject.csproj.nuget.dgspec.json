@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qozahani\\Desktop\\FinalProject\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\qozahani\\Source\\Repos\\quintenozahanics\\ITS245FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qozahani\\Desktop\\FinalProject\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\qozahani\\Source\\Repos\\quintenozahanics\\ITS245FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qozahani\\Desktop\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\qozahani\\Source\\Repos\\quintenozahanics\\ITS245FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\qozahani\\Desktop\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\qozahani\\Source\\Repos\\quintenozahanics\\ITS245FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\qozahani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qozahani\\Desktop\\FinalProject\\FinalProject\\obj\\",
+        "outputPath": "C:\\Users\\qozahani\\Source\\Repos\\quintenozahanics\\ITS245FinalProject\\FinalProject\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
